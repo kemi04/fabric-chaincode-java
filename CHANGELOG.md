@@ -1,4 +1,5 @@
 ## v2.0.0-beta
+
 Thu 12 Dec 12:45:44 GMT 2019
 
 * [4a13009](https://github.com/hyperledger/fabric-chaincode-java/commit/4a13009) Add OWASP dependency checks to build
