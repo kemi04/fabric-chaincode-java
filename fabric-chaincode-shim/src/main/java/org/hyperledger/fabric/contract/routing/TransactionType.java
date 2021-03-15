@@ -6,16 +6,6 @@
 package org.hyperledger.fabric.contract.routing;
 
 public enum TransactionType {
-    /**
-     *
-     */
-    INVOKE,
-    /**
-     *
-     */
-    QUERY,
-    /**
-     *
-     */
-    DEFAULT
+    SUBMIT,
+    EVALUATE
 }
